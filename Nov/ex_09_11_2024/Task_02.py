@@ -10,7 +10,7 @@ num3 = int(input("Enter 3rd Number\n"))
 # Calculation
 subtraction = num1 - num2 - num3
 multiplication = num1 * num2 * num3
-division = num1 / num2 / num3
+division = (num1 / num2) / num3
 
 # Printing the output
 
